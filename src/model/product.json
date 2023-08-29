@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "img": "https://static.dnipro-m.ua/cache/products/6523/thumb_199341.jpg",
+    "name": "Шуруповерт",
+    "price": 150,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ",
+    "qty": null
+  },
+  {
+    "id": 2,
+    "img": "https://static.dnipro-m.ua/cache/products/4878/catalog_origin_269592.jpg",
+    "name": "Перфоратор",
+    "price": 3948,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ",
+    "qty": null
+  },
+  {
+    "id": 3,
+    "img": "https://static.dnipro-m.ua/cache/products/8240/thumb_277744.jpg",
+    "name": "Шифмашинка",
+    "price": 1299,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ",
+    "qty": null
+  },
+  {
+    "id": 4,
+    "img": "https://static.dnipro-m.ua/cache/products/8249/catalog_origin_277945.jpg",
+    "name": "Набір_4",
+    "price": 1299,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ",
+    "qty": null
+  },
+  {
+    "id": 5,
+    "img": "https://static.dnipro-m.ua/cache/products/8249/catalog_origin_277945.jpg",
+    "name": "Набір_5",
+    "price": 1299,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ",
+    "qty": null
+  },
+  {
+    "id": 6,
+    "img": "https://static.dnipro-m.ua/cache/products/8238/catalog_origin_277818.jpg",
+    "name": "Набір_7",
+    "price": 1299,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ",
+    "qty": null
+  }
+]
